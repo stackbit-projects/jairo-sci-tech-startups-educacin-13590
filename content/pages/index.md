@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: Lo que encontrarás en este sitio:
     content: >-
-      Startups 🦄.
+      Startups .
     actions:
       - label: Contact Me
         url: /contact
