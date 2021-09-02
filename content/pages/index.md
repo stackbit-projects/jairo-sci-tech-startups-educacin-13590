@@ -12,7 +12,67 @@ sections:
     title: Lo que encontrarás en este sitio:
     content: >-
       🦄 Startups 🚀 
+      🧬    type: section_content
+    title: Lo que encontrarás en este sitio:
+    content: >-
+      🦄 Startups 🚀 
       🧬
+    actions:
+      - label: Contact Me
+        url: /contact
+        style: button
+  - section_id: recent-posts
+    type: section_content
+    title: Lo que encontrarás en este sitio:
+    content: >-
+      🦄 Startups 🚀 
+      🧬
+    actions:
+      - label: Contact Me
+        url: /contact
+        style: button
+  - section_id: recent-posts
+    type: section_content
+    title: Lo que encontrarás en este sitio:
+    content: >-
+      🦄 Startups 🚀 
+      🧬
+    actions:
+      - label: Contact Me
+        url: /contact
+        style: button
+  - section_id: recent-posts
+    type: section_content
+    title: Lo que encontrarás en este sitio:
+    content: >-
+      🦄 Startups 🚀 
+      🧬
+    actions:
+      - label: Contact Me
+        url: /contact
+        style: button
+  - section_id: recent-posts
+    type: section_content
+    title: Lo que encontrarás en este sitio:
+    content: >-
+      🦄 Startups 🚀 
+      🧬
+    actions:
+      - label: Contact Me
+        url: /contact
+        style: button
+  - section_id: recent-posts
+    type: section_content
+    title: Lo que encontrarás en este sitio:
+    content: >-
+      🦄 Startups 🚀 
+      🧬
+    actions:
+      - label: Contact Me
+        url: /contact
+        style: button
+  - section_id: recent-posts
+
     actions:
       - label: Contact Me
         url: /contact
