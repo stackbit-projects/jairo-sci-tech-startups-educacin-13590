@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: "👋Hola, 👩‍💻I'm Jairo Saul."
     content: >-
-      "No lo pienses tanto" 😉... Actua y se
+      "No lo pienses tanto" 😉... Actua y se imparable 
   - section_id: about
     type: section_content
     title: About
