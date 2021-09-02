@@ -66,8 +66,7 @@ sections:
     title: Lo que encontrarás en este sitio:
     content: >-
     <ul>
-      <li>
-      🦄 Startups 🚀 
+      <li>🦄 Startups 🚀 
 
     actions:
       - label: Contact Me
