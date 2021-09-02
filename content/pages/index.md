@@ -9,7 +9,7 @@ sections:
       "No lo pienses tanto" 😉... Actua y se imparable. 🚀
   - section_id: about
     type: section_content
-    title: Qué encontrarás :
+    title: Qué encontrarás en este sitio:
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
