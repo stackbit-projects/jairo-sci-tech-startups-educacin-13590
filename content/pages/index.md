@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "👋Hola, 🤓I'm Jairo Saul."
+    title: "👋Hola, I'm Jairo Saul."
     content: >-
       "No lo pienses tanto" 😉.
   - section_id: about
