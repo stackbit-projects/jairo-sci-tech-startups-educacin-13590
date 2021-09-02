@@ -12,7 +12,7 @@ sections:
     title: Lo que encontrarás en este sitio:
     content: >-
       🦄 Startups 🚀 
-      
+      🧬
     actions:
       - label: Contact Me
         url: /contact
